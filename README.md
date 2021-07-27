@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RohanWork
+- 👋 Hi, I’m Rohan
 - 👀 I’m interested in Andoird, Cloud and IoT.
 - 🌱 I’m currently learning cloud computing and ML.
 - 💞️ I’m looking to collaborate on android and cloud computing.
